@@ -1,0 +1,4 @@
+1 - split up with comments
+2 - extract unix_time()
+3 - extract remaining functions
+4 - add main() - generalise send_to_grafana
